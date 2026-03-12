@@ -1,3 +1,3 @@
 # Hey👋, I'm Guillaume Noblet
 
-See my website: https://guillaume-noblet.com/
+Check out my website: https://guillaume-noblet.com/
